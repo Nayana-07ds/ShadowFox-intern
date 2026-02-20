@@ -1,2 +1,0 @@
-# ShadowFox-intern
-Portfolio
